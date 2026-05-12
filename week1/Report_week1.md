@@ -26,7 +26,7 @@ This week’s analysis is guided by four research questions:
 | ONS Vacancy Survey | Overall UK vacancy trend | Used as macro labour-market context |
 | Adzuna Job Market Reports | Jobseekers per vacancy, advertised vacancies, salaries, and category-level hiring pressure | Used as directional market evidence |
 | GOV.UK AI Adoption Research | AI use cases, business areas using AI, and reported productivity/process impact | Used to understand where AI is being applied in businesses |
-| ONS / GOV.UK AI adoption studies | Business-level AI adoption trends | Used to assess whether business AI use is increasing |
+| ONS AI adoption studies | Business-level AI adoption trends | Used to assess whether business AI use is increasing |
 | YouGov AI at Work survey | Individual worker AI usage | Used to capture bottom-up AI use at work |
 | Epoch AI benchmarks | Frontier AI capability progress | Used to assess AI performance in coding, reasoning, and multimodal tasks |
 
