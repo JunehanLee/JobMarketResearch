@@ -182,16 +182,3 @@ The sources above are used at different evidence levels:
 | Individual AI usage | YouGov | Useful for bottom-up AI use signals |
 | AI capability progress | Epoch AI | Strong for benchmark progress, not full workplace substitution |
 
----
-
-## 7. Citation Notes
-
-When writing the main README:
-
-- Use ONS for macro labour-market context.
-- Use Adzuna for directional hiring-pressure signals.
-- Use GOV.UK / ONS for business AI adoption.
-- Use YouGov for individual AI usage.
-- Use Epoch AI for benchmark-based AI capability progress.
-- Avoid claiming that AI has directly caused junior job decline at this stage.
-- Use wording such as “suggests”, “indicates”, “is consistent with”, and “motivates further JD-level analysis”.
